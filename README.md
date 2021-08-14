@@ -13,7 +13,7 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Solidity" height="30" width="40" src="https://www.logo.wine/a/logo/Solidity/Solidity-Logo.wine.svg">
-  <img align="center" alt="Rafa-Web3" height="30" width="40" src="https://moralis.io/wp-content/uploads/2021/06/Blog-Web3js-768x653.jpg">
+  <img align="center" alt="Rafa-Web3" height="30" width="40" src="https://miro.medium.com/max/1110/1*FjSkfan-Kh3vrgtlW8UP_g.png">
   <img align="center" alt="React" height="30" width="40" src="https://jonmircha.com/img/category/react.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
