@@ -8,7 +8,7 @@
 <div>
   <a href="https://beacons.ai/RafaCypherpunk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaCypherpunk&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaCypherpunk&layout=compact&langs_count=7&theme=outrun"/>
+  
 </div>
   
   <div style="display: inline_block"><br>
