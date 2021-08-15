@@ -1,6 +1,6 @@
 ### !Hello World! I am Rafa 👋
 
-- 🔭 I’m blockchain developer
+- 🔭 I’m blockchain consultant and developer
 - 🌱 I’m currently working at Maniac
 - 👯 I’m studying Economy and computational engineering
 - 🤔 I’m blockchain and crypto enthutiast
