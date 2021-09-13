@@ -10,6 +10,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaCypherpunk&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
   
 </div>
+
+<div>
+  [![Kingsley's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=RafaCypherpunk&show_icons=true&theme=outrun&include_all_commits=true&count_private=true)](https://github.com/RafaCypherpunk)
+</div>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Solidity" height="30" width="40" src="https://www.logo.wine/a/logo/Solidity/Solidity-Logo.wine.svg">
