@@ -1,7 +1,7 @@
 ### !Hello World! I am Rafa 👋
 
 - 🔭 I’m blockchain consultant and developer
-- 🌱 I’m currently working at Maniac
+- 🌱 I’m currently working at Greenex
 - 👯 I’m studying Economy and computational engineering
 - 🤔 I’m blockchain and crypto enthutiast
 
