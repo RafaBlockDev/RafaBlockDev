@@ -1,9 +1,10 @@
 ### !Hello World! I am Rafa 👋
 
-- 🔭 I’m blockchain consultant and developer
-- 🌱 I’m currently working as blockchain developer
+- 🔭 I’m blockchain and web3 consultant, developer and researcher
+- 🌱 I’m currently working as blockchain adn web3 developer
 - 👯 I’m studying Economy and computational engineering
 - 🤔 I’m blockchain and crypto enthutiast
+- 🧪 I love write articles to help the community
 
 <div>
   <a href="https://beacons.ai/RafaBlockDev">
