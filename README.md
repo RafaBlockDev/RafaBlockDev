@@ -6,7 +6,6 @@
 - 🤔 I’m Layer2 and cryptography enthutiast
 - 🧪 I love write tech articles to help the community
 - 🦄 I´m building to myself to be a cypherpunk
-- 🇲🇽 I´m Mexican
 
 <div>
   <a href="https://beacons.ai/RafaBlockDev">
